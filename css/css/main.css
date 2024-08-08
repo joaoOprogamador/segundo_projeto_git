@@ -41,11 +41,11 @@ header li a {
 
 .articles article img {
     /*height: 180px;*/
-    width: 30%;
+    width: 100%;
 }
 
 .articles article {
-    width: 100%;
+    width: 30%;
 }
 
 section {
